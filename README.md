@@ -76,7 +76,7 @@ npm run build
 
 ## 📹 Video Demo
 
-[Agregar enlace al video aquí cuando esté disponible]
+[[CLICK AQUI PARA VER LA DEMOSTRACION](https://www.youtube.com/watch?v=0nCpBammcoA)]
 
 ## 📁 Estructura del Proyecto
 
